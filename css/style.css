@@ -1,0 +1,276 @@
+body {
+	font-size: 15px;
+	background-color: white;
+	color: #fffdcd;
+	font-family: Adobe Caslon Pro;
+}
+
+/* NAVBAR */
+.container-fluid {
+	background-color: #0b1731;
+	color: #fffdcd;
+}
+
+.navbar-inverse {
+	padding: 10px;
+	margin-bottom: 0px;
+}
+
+.navbar-brand {
+	font-family: Balloon XBd BT;
+	font-size: 40px;
+	text-align: center;
+	color: #fffdcd;
+}
+
+/* PROFILE */
+.introname {
+	font-family: Amazone BT;
+	font-size: 80px;
+	color: #ca8a4a;
+	text-align: right;
+	margin-top: 100px;
+}
+
+.showcase {
+	margin-bottom: 20px;
+	margin-top: 0px;
+	padding: 30px;
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	box-shadow: 15px 10px 15px #000;
+	display: grid;
+	grid-gap: 0px;
+	grid-template-columns: repeat(2,1fr);
+}
+
+.container {
+	text-align: right;
+}
+
+.title {
+	font-size: 20px;
+	text-align: center;
+}
+
+/* ARTICLES */
+.articles1 {
+	background-color: #0b1731;
+	margin-bottom: 0px;
+	padding: 30px;
+}
+
+.articles2 {
+	background-color: silver;
+	color: #0b1731;
+	margin-bottom: 0px;
+	padding: 30px;
+}
+
+.articles3 {
+	background-color: #0b1731;
+	margin-bottom: 0px;
+	padding: 30px;
+}
+
+.articles4 {
+	background-color: silver;
+	color: #0b1731;
+	margin-bottom: 0px;
+	padding: 30px;
+
+}
+
+.articles5 {
+	background-color: #0b1731;
+	margin-bottom: 0px;
+	padding: 30px;
+}
+
+
+.articles6 {
+	background-color: silver;
+	color: #0b1731;
+	margin-bottom: 0px;
+	padding: 30px;
+}
+
+.article7 {
+	margin-bottom: 0px;
+}
+
+/* PERSONAL DATA */
+.personal-dataaa {
+	text-align: center;
+}
+
+.fullname {
+	font-size: 30px;
+}
+
+/* EDUCATIONAL BACKGROUND */
+h2 {
+	text-align: center;
+}
+
+.header {
+	color: #1f1748;
+	font-size: 25px;
+}
+
+.school {
+	font-size: 20px;
+}
+
+.year {
+	font-size: 15px;
+}
+
+.education {
+	text-align: center;
+}
+
+.main-article {
+	padding: 30px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	text-align: center;
+	color: #337ab7;
+}
+.main-article {
+	display: grid;
+	grid-gap: 30px;
+	grid-template-columns: repeat(4,1fr);
+}
+.main-article-left {
+	padding: 15px;
+	background-color: white;
+	opacity: 0.8;
+	border-radius: 25px;
+}
+
+.main-article-middle {
+	padding: 15px;
+	background-color: white;
+	opacity: 0.8;
+	border-radius: 25px;
+}
+
+.main-article-right {
+	padding: 15px;
+	background-color: white;
+	opacity: 0.8;
+	border-radius: 25px;
+}
+
+/* HOBBIES */
+.hobbies {
+	text-align: center;
+	display: grid;
+	grid-gap: 5px;
+	grid-template-columns: repeat(3,1fr);
+	margin-top: 50px;
+}
+
+.food {
+	margin-left: 10px;
+	margin-bottom: 20px;
+	border-radius: 100px;
+	box-shadow: 15px 10px 15px #000;
+}
+
+.books {
+	margin-left: 10px;
+	margin-bottom: 20px;
+	border-radius: 100px;
+	box-shadow: 15px 10px 15px #000;
+}
+
+.coloringbook {
+	margin-left: 10px;
+	margin-bottom: 20px;
+	border-radius: 100px;
+	box-shadow: 15px 10px 15px #000;
+
+}
+
+/* SKILLS */
+.skills {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(2,1fr);
+}
+
+.skill {
+	font-size: 20px;
+}
+
+.progress {
+	border-radius: 0px;
+	height: 15px;
+	margin-top: 5px;
+	margin-left: 115px;
+	background-color: #D6D6D6;
+	width: 70%;
+}
+
+
+/* WORK EXPERIENCES */
+.work {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	display: grid;
+	grid-gap: 50px;
+	grid-template-columns: repeat(4,1fr);
+}
+
+.experience {
+	font-size: 25px;
+}
+
+.place {
+	font-size: 20px;
+}
+
+/* AWARDS & ORGANIZATION-AFFILIATION */
+.awNor {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(2,1fr);
+}
+
+/* AWARDS */
+.awards {
+	font-size: 20px;
+}
+
+/* ORGANIZATION-AFFILIATION */
+.org {
+	font-size: 20px;
+}
+
+/* CONTACT */
+.text-center {
+	font-size: 20px;
+}
+
+.col-sm-5 {
+	margin-top: 70px;
+}
+
+/* FOOTER */
+.copyright {
+	text-align: center;
+	color: #0b1731;
+	font-size: 15px;
+	padding: 20px;
+	margin-top: 3px;
+	background-color: silver;
+}
